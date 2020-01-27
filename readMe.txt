@@ -1,2 +1,2 @@
-Dear Shahram Taheri,
-We attached the needed implementation file for testing, but we could not attached the "weights" file because of the size of it. If you need further information we can provide them.
+
+We attached the needed implementation file for testing, but we could not attached the "weights" file because of the size of it.
