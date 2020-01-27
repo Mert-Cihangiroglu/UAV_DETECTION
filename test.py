@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Sep 17 08:56:30 2019
-
-@author: MUSTAFA GULTEKIN-MERT CIHANGIOGLU
+@author: MUSTAFA GULTEKIN - MERT CIHANGIOGLU
 """
 #import libraries
 
